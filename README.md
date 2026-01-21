@@ -124,8 +124,8 @@ This ensures:
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/your-username/Fraud-Detection-Project.git
-cd Fraud-Detection-Project
+git clone https://github.com/shanmukha2006-max/Fraud-Detection-System-SHAP.git
+cd Fraud-Detection-System-SHAP
 
 
 2️⃣ Create Virtual Environment
