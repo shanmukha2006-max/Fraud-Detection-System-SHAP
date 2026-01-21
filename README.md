@@ -173,7 +173,7 @@ Advanced anomaly detection models
 
 👨‍💻 Author
 
-Shanm
+CH SHANMUKHA VENKATA LAKSHMAN
 Machine Learning | Data Science | Explainable AI
 
 ⭐ Final Note
